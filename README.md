@@ -21,7 +21,7 @@ Press the encoder button down to toggle the modes.
 
 Continuous mode will blink the on board LED.
 
-The encoder has an 3 ranges. 
+The encoder has 3 ranges. 
 
 Centered will leave the motor on its current position.
 
