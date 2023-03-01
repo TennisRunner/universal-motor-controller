@@ -56,7 +56,7 @@ Otherwise it will set its position.
 1. Arduino Nano with Soldered Pins - https://www.amazon.com/s?k=Arduino+nano
 2. Rotary Encoder with breakout board - https://www.amazon.com/dp/B06XQTHDRR
 3. Mini Breadboard - https://www.amazon.com/MCIGICM-Breadboard-Solderless-Distribution-Connecting/dp/B07Q2S9WX6
-4. 3D printed case - todo
+4. 3D printed case - https://www.thingiverse.com/thing:5885405
 ![cased](images/uncased.jpg)
 
 
