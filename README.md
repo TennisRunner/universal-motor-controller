@@ -19,7 +19,7 @@ using different types of drivers.
 
 Press the encoder button down to toggle the modes.
 
-Continious mode will blink the on board LED.
+Continuous mode will blink the on board LED.
 
 The encoder has an 3 ranges. 
 
@@ -46,7 +46,7 @@ Rotating the encoder will increment and decrement the rotation speed that is app
 
 The servo pin is not effected by the modes. 
 
-If the servo is a continious type, it will set its speed. 
+If the servo is a continuous type, it will set its speed. 
 
 Otherwise it will set its position.
 
